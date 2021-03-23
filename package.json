@@ -1,0 +1,14 @@
+{
+  "name": "superhumanize-test",
+  "version": "1.0.0",
+  "description": "test the superhumanize package",
+  "main": "index.js",
+  "author": "caleb.peterson@zapier.com",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./index"
+  },
+  "dependencies": {
+    "superhumanize": "0.1.4"
+  }
+}
