@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-superhumanize@0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/superhumanize/-/superhumanize-0.1.4.tgz#6be5c4c7444284cc4696e0daafe77b86d22bd1c8"
-  integrity sha512-tacEHdAvvC4stJSZy01DOYudTlGH/V0Ox7MDJLy/R4bx3tlHp65Fa1S5/b6bvVJiuJydHhJb1vVo7bo0TO4thQ==
+superhumanize@0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/superhumanize/-/superhumanize-0.1.6.tgz#72b5bbcd8f8b27f879b1e1a955577f3393fba878"
+  integrity sha512-9x1fvnVaQX3oF2cXdWfvxi3+tZet8r1JLooWAuccVsD8uGK/qp6XSjQCG/Myl8NlNCzYHysD4IfrvMM4KLpG7A==

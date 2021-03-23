@@ -9,6 +9,6 @@
     "test": "node ./index"
   },
   "dependencies": {
-    "superhumanize": "0.1.4"
+    "superhumanize": "0.1.6"
   }
 }
